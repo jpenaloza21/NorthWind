@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3E975F-72FF-4D44-98D2-D70B3AEEA9AB}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdetaildtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3E975F-72FF-4D44-98D2-D70B3AEEA9AB}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdetaildtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderDetailDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDtos.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDtos.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDtos.cs",
+              "RelativeToolTip": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:29:55.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
