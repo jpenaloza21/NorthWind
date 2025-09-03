@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Enterprise Business Rules", "2.Enterprise Business Rules", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Application Business Rules", "1.Application Business Rules", "{679C9685-BB65-4F5A-A0F8-B9435594A791}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Interface Adapters", "3.Interface Adapters", "{9A3EE08F-FA31-4F0E-88D1-04D413A11D81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Frameworks And Drivers", "4.Frameworks And Drivers", "{747751BD-C8A1-4DD3-B2EC-F3A8D9EC5016}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B9EF4C-1B8E-4191-BBB2-B6031C3DA28E}
+	EndGlobalSection
+EndGlobal
