@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C3E975F-72FF-4D44-98D2-D70B3AEEA9AB}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C3E975F-72FF-4D44-98D2-D70B3AEEA9AB}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.backend.businessobjects\\aggregates\\orderaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\aggregates\\orderaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3E975F-72FF-4D44-98D2-D70B3AEEA9AB}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdetaildtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C3E975F-72FF-4D44-98D2-D70B3AEEA9AB}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdetaildtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.backend.businessobjects\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.backend.businessobjects\\pocoentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\pocoentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.backend.businessobjects\\valueobjects\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\valueobjects\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.backend.businessobjects\\enum\\discounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\enum\\discounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.backend.businessobjects\\enum\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\enum\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|c:\\users\\hp\\documents\\tecnolog\u00EDas web\\northwind\\northwind.sales.backend.businessobjects\\northwind.sales.backend.businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A98A4824-4BDE-489C-998B-DE863BCDEA26}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\northwind.sales.backend.businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateOrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
-              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
-              "RelativeToolTip": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Title": "OrderAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\Aggregates\\OrderAggregate.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\Aggregates\\OrderAggregate.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\Aggregates\\OrderAggregate.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\Aggregates\\OrderAggregate.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:16:05.783Z",
+              "WhenOpened": "2025-09-15T13:35:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\ValueObjects\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\ValueObjects\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\ValueObjects\\OrderDetail.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\ValueObjects\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:17:44.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateOrderDetailDtos.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDtos.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDtos.cs",
-              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDtos.cs",
-              "RelativeToolTip": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDtos.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\GlobalUsing.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T17:29:55.531Z",
+              "WhenOpened": "2025-09-15T12:57:41.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\POCOEntities\\Order.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\POCOEntities\\Order.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\POCOEntities\\Order.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\POCOEntities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:44:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountType.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\Enum\\DiscountType.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\Enum\\DiscountType.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\Enum\\DiscountType.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\Enum\\DiscountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:40:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShippingType.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\Enum\\ShippingType.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\Enum\\ShippingType.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\Enum\\ShippingType.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\Enum\\ShippingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:39:06.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthWind.Sales.Backend.BusinessObjects",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Tecnolog\u00EDas Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T12:38:09.433Z",
               "EditorCaption": ""
             }
           ]
